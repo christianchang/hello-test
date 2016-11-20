@@ -1,0 +1,3 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Sun, 20 Nov 2016 05:51:32 GMT" time="0.004">
+<testcase classname="calculator should work" name="should add two numbers together" time="0.001"/>
+</testsuite>
