@@ -1,4 +1,5 @@
-<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Mon, 21 Nov 2016 00:06:17 GMT" time="0.006">
+<testsuite name="Mocha Tests" tests="3" failures="0" errors="0" skipped="0" timestamp="Mon, 21 Nov 2016 00:09:34 GMT" time="0.005">
 <testcase classname="calculator should work" name="should add two numbers together" time="0.001"/>
 <testcase classname="calculator should work" name="should subtract two numbers together" time="0"/>
+<testcase classname="calculator should work" name="should multiply two numbers together" time="0"/>
 </testsuite>

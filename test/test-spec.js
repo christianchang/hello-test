@@ -10,4 +10,8 @@ describe('calculator should work', function() {
 	it('should subtract two numbers together', function() {
 		expect(cal.subtract(2,3)).to.be.equal(-1);
 	});
+
+	it('should multiply two numbers together', function() {
+		expect(cal.mult(2,3)).to.be.equal(6);
+	});
 });
