@@ -1,6 +1,8 @@
+/* eslint-env node, mocha */
+
 const Chai = require('chai');
 const expect = Chai.expect;
-const cal = require('../app.js')
+const cal = require('../app.js');
 
 describe('calculator should work', function() {
 	it('should add two numbers together', function() {

@@ -14,4 +14,4 @@ module.exports = {
 	add,
 	subtract,
 	mult
-}
+};
